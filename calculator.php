@@ -135,30 +135,6 @@
         <!-- Area untuk menampilkan hasil perhitungan -->
     </div>
 
-    <!-- Bagian untuk team yang mengerjakan -->
-    <!-- <div class="team">
-        <div class="card">
-            <img src="https://via.placeholder.com/80" alt="Profile Picture 1">
-            <h3>Nama: Raffi</h3>
-            <p class="contributor">Kontributor Utama</p>
-        </div>
-        <div class="card">
-            <img src="https://via.placeholder.com/80" alt="Profile Picture 2">
-            <h3>Nama: Khafi</h3>
-            <p class="non-contributor">Numpang Nama</p>
-        </div>
-        <div class="card">
-            <img src="https://via.placeholder.com/80" alt="Profile Picture 3">
-            <h3>Nama: Tuza</h3>
-            <p class="non-contributor">Numpang Nama</p>
-        </div>
-        <div class="card">
-            <img src="https://via.placeholder.com/80" alt="Profile Picture 4">
-            <h3>Nama: Alif</h3>
-            <p class="non-contributor">Numpang Nama</p>
-        </div>
-    </div> -->
-
     <script>
         function calculate(operation) {
             var num1 = parseFloat(document.getElementById('num1').value);
